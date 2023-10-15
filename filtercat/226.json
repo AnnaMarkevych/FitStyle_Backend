@@ -1,0 +1,31 @@
+{
+	"id": "226",
+	"title": "Women's Yellow Top",
+	"url": "to11",
+	"productPhotos": {
+		"photoItem1": "top11",
+		"photoItem2": "top12",
+		"photoItem3": "top11",
+		"photoItem5": "top12",
+		"photoItem6": "top11",
+		"photoItem7": "top12"
+	},
+	"descriptionItem": "This Item page for Top 6",
+	"price": 10,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": false,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "226",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

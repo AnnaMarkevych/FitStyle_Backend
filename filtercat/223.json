@@ -1,0 +1,31 @@
+{
+	"id": "223",
+	"title": "Women's Pink Top",
+	"url": "top5",
+	"productPhotos": {
+		"photoItem1": "top5",
+		"photoItem2": "top6",
+		"photoItem3": "top5",
+		"photoItem5": "top6",
+		"photoItem6": "top5",
+		"photoItem7": "top6"
+	},
+	"descriptionItem": "This Item page for Top 3",
+	"price": 10,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": false,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "223",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

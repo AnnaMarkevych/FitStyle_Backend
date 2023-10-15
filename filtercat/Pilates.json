@@ -1,0 +1,35 @@
+[
+	{
+        "idFilterCategory": "program31",
+		"titleFilterCategory": "Jane Bimol Pilates",
+		"trainer": "Jane Bimol",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program32",
+		"titleFilterCategory": "Sveta Raketa Pilates",
+		"trainer": "Sveta Raketa",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program33",
+		"titleFilterCategory": "Rebeca Brans Pilates",
+		"trainer": "Rebeca Brans",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program34",
+		"titleFilterCategory": "Svitlana Yoga Pilates",
+		"trainer": "Svitlana Yoga",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

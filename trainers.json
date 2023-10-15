@@ -1,0 +1,85 @@
+[
+	{
+        "idCategory": "trainer1",
+		"titleCategory": "Jane Bimol",
+        "urlCategory": "trainer1",
+		"trainingDirections": ["Pilates", "Functional workout", "Stratching", "Tabata", "Fat burning training"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+		"idCategory": "trainer2",
+		"titleCategory": "Ariel Bro",
+        "urlCategory": "trainer2",
+		"trainingDirections": ["Basic Gym", "Functional workout", "Bodybuilding", "Tabata", "Fat burning training"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer3",
+		"titleCategory": "Sveta Raketa",
+        "urlCategory": "trainer14",
+		"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer4",
+		"titleCategory": "Rebeca Brans",
+		"direction": "Poldance",
+        "urlCategory": "trainer15",
+		"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		
+	},
+	{
+		"idCategory": "trainer5",
+		"titleCategory": "Ioann Mercury",
+        "urlCategory": "trainer5",
+		"trainingDirections": ["Basic gym", "Bodybiulding"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		
+	},
+	{
+		"idCategory": "trainer6",
+		"titleCategory": "Jozef Franko",
+		"trainingDirections": ["Basic gym", "Bodybiulding"],
+        "urlCategory": "trainer6",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	
+	},
+	{
+		"idCategory": "trainer7",
+		"titleCategory": "Victor Marco",
+		"trainingDirections": ["Basic gym", "Functional workout", "Bodybiulding"],
+        "urlCategory": "trainer7",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer8",
+		"titleCategory": "Anna Markevych",
+        "urlCategory": "trainer8",
+		"trainingDirections": ["Tabata", "Zumba", "Yoga"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer9",
+		"titleCategory": "Svitlana Yoga",
+        "urlCategory": "trainer9",
+		"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training", "Yoga"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer10",
+		"titleCategory": "Showkun Radion",
+		"trainingDirections": ["Basic gym", "Functional workout", "Tabata", "Fat burning training", "Bodybiulding"],
+        "urlCategory": "trainer10",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "trainer11",
+		"titleCategory": "Zarina Meg",
+		"trainingDirections": ["Zumba", "Pregnant Yoga"],
+        "urlCategory": "zarina",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+	
+	
+]

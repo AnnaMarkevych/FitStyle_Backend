@@ -1,0 +1,54 @@
+{
+	"id": "trainer5",
+	"title": "Ioann Mercury",
+	"url": "trainer5",
+	"urlAbout": "about5",
+	"photo1": "trainer5",
+	"photo2": "ioann2",
+	"photo3": "ioann3",
+	"productPhotos": {
+		"photoItem1": "trainer5",
+		"photoItem2": "ioann2",
+		"photoItem3": "ioann3"
+	},
+	"group": "trainer",
+	"programsAmount": "7",
+	"trainingsAmount": "80",
+	"trainingnow": "4589",
+	"about": "Ioann is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Ioann places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Ioann Mercury",
+	"trainings": {
+		"basic gym": true,
+		"functional workout": false,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": false,
+		"fat burning training": false,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": true
+	},
+	"trainingDirections": ["Bodybuilding", "Basic gym"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program101",
+		"titleFilterCategory": "Ioann Mercury Bodybuilding",
+		"trainer": "Ioann Mercury",
+		"program": "Bodybuilding",
+        "urlFilerCategory": "bodybuilding",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program11",
+		"titleFilterCategory": "Ioann Mercury Basic Gym",
+		"trainer": "Ioann Mercury",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }	
+	],
+	"directions": "Basic gym, Bodybuilding"
+	
+}
+

@@ -1,0 +1,19 @@
+[
+	{
+        "idFilterCategory": "program81",
+		"titleFilterCategory": "Zarina Meg Zumba",
+		"trainer": "Zarina Meg",
+		"program": "Zumba",
+        "urlFilerCategory": "zumba",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program82",
+		"titleFilterCategory": "Anna Markevych Zumba",
+		"trainer": "Anna Markevych",
+		"program": "Zumba",
+        "urlFilerCategory": "zumba",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

@@ -1,0 +1,78 @@
+{
+	"id": "trainer10",
+	"title": "Showkun Radion",
+	"url": "trainer10",
+	"urlAbout": "about10",
+	"photo1": "trainer10",
+	"photo2": "radion2",
+	"photo3": "radion3",
+	"productPhotos": {
+		"photoItem1": "trainer10",
+		"photoItem2": "radion2",
+		"photoItem3": "radion3"
+	},
+	"group": "trainer",
+	"programsAmount": "35",
+	"trainingsAmount": "1056",
+	"trainingnow": "15035",
+	"about": "Radion is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Radion places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Radion Showkun",
+	"trainings": {
+		"basic gym": true,
+		"functional workout": true,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": true
+	},
+	"trainingDirections": ["Bodybuilding", "Functional Workout", "Basic gym", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program23",
+		"titleFilterCategory": "Showkun Radion Functional workout",
+		"trainer": "Showkun Radion",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program103",
+		"titleFilterCategory": "Showkun Radion Bodybuilding",
+		"trainer": "Showkun Radion",
+		"program": "Bodybuilding",
+        "urlFilerCategory": "bodybuilding",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program66",
+		"titleFilterCategory": "Showkun Radion Tabata",
+		"trainer": "Showkun Radion",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program13",
+		"titleFilterCategory": "Showkun Radion Basic Gym",
+		"trainer": "Showkun Radion",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program76",
+		"titleFilterCategory": "Showkun Radion Fat burning training",
+		"trainer": "Showkun Radion",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Basic gym, Functional workout, Bodybuilding, Tabata, Fat burning training"
+
+}
+

@@ -1,0 +1,59 @@
+[
+	{
+        "idFilterCategory": "program61",
+		"titleFilterCategory": "Jane Bimol Tabata",
+		"trainer": "Jane Bimol",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program62",
+		"titleFilterCategory": "Sveta Raketa Tabata",
+		"trainer": "Sveta Raketa",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program63",
+		"titleFilterCategory": "Rebeca Brans Tabata",
+		"trainer": "Rebeca Brans",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program64",
+		"titleFilterCategory": "Svitlana Yoga Tabata",
+		"trainer": "Svitlana Yoga",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program65",
+		"titleFilterCategory": "Ariel Bro Tabata",
+		"trainer": "Ariel Bro",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program66",
+		"titleFilterCategory": "Showkun Radion Tabata",
+		"trainer": "Showkun Radion",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program67",
+		"titleFilterCategory": "Anna Markevych Tabata",
+		"trainer": "Anna Markevych",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

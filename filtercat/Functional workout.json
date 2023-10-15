@@ -1,0 +1,35 @@
+[
+	{
+        "idFilterCategory": "program21",
+		"titleFilterCategory": "Jane Bimol Functional workout",
+		"trainer": "Jane Bimol",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program22",
+		"titleFilterCategory": "Ariel Bro Functional workout",
+		"program": "Functional workout",
+		"trainer": "Ariel Bro",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program23",
+		"titleFilterCategory": "Showkun Radion Functional workout",
+		"trainer": "Showkun Radion",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program24",
+		"titleFilterCategory": "Victor Marco Functional workout",
+		"trainer": "Victor Marco",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	
+]

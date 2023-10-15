@@ -1,0 +1,31 @@
+{
+	"id": "216",
+	"title": "Women's deep-yellow leggins",
+	"url": "leggins7",
+	"productPhotos": {
+		"photoItem1": "leggins11",
+	"photoItem2": "leggins12",
+	"photoItem3": "leggins37",
+	"photoItem4": "leggins38",
+	"photoItem5": "leggins39",
+	"photoItem6": "leggins12"
+	},
+	"descriptionItem": "This Item page for Leggins 6",
+	"price": 18,
+	"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+	"descriptionDetails": {
+		"Article": "216",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

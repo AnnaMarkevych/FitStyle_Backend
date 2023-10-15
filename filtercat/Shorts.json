@@ -1,0 +1,180 @@
+[
+	{
+        "id": "261",
+		"title": "Women's Shorts 1",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "262",
+		"title": "Women's Shorts 2",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "263",
+		"title": "Women's Shorts 3",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "264",
+		"title": "Women's Shorts 4",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "265",
+		"title": "Women's Shorts 5",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "266",
+		"title": "Women's Shorts 6",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "267",
+		"title": "Women's Shorts 7",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "268",
+		"title": "Women's Shorts 8",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "269",
+		"title": "Women's Shorts 9",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "2610",
+		"title": "Women's Shorts 10",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+{
+        "id": "2611",
+		"title": "Women's Shorts 11",
+        "url": "bicycles",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    }
+	
+	
+]

@@ -1,0 +1,69 @@
+{
+	"id": "trainer3",
+	"title": "Sveta Raketa",
+	"url": "trainer14",
+	"urlAbout": "about3",
+	"photo1": "trainer14",
+	"photo2": "sveta4",
+	"photo3": "sveta3",
+	"productPhotos": {
+		"photoItem1": "trainer14",
+		"photoItem2": "sveta4",
+		"photoItem3": "sveta3"
+	},
+	"group": "trainer",
+	"programsAmount": "15",
+	"trainingsAmount": "430",
+	"trainingnow": "678",
+	"about": "Sveta is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Sveta places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Sveta Raketa",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": false,
+		"pilates": true,
+		"stratching": true,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": false
+	},
+	"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program32",
+		"titleFilterCategory": "Sveta Raketa Pilates",
+		"trainer": "Sveta Raketa",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },{
+        "idFilterCategory": "program42",
+		"titleFilterCategory": "Sveta Raketa Stratching",
+		"trainer": "Sveta Raketa",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program62",
+		"titleFilterCategory": "Sveta Raketa Tabata",
+		"trainer": "Sveta Raketa",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program72",
+		"titleFilterCategory": "Sveta Raketa Fat burning training",
+		"trainer": "Sveta Raketa",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Pilates, Stratching, Tabata, Fat burning training"
+	
+}
+

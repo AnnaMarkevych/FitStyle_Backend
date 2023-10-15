@@ -1,0 +1,51 @@
+[
+	{
+        "idFilterCategory": "11",
+		"titleFilterCategory": "Mats",
+        "urlFilerCategory": "mats",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "12",
+		"titleFilterCategory": "Dumbbells",
+        "urlFilerCategory": "dumbbells",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "13",
+		"titleFilterCategory": "Steppes",
+        "urlFilerCategory": "steppes",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "14",
+		"titleFilterCategory": "rubber bands",
+        "urlFilerCategory": "rubberbands",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "15",
+		"titleFilterCategory": "Skipping ropes",
+        "urlFilerCategory": "skippingropes",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "16",
+		"titleFilterCategory": "Weights",
+        "urlFilerCategory": "weights",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "17",
+		"titleFilterCategory": "Weights",
+        "urlFilerCategory": "weights",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "18",
+		"titleFilterCategory": "Weights",
+        "urlFilerCategory": "weights",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

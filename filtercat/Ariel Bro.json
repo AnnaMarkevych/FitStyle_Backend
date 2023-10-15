@@ -1,0 +1,77 @@
+{
+	"id": "trainer2",
+	"title": "Ariel Bro",
+	"url": "trainer2",
+	"urlAbout": "about2",
+	"photo1": "trainer2",
+	"photo2": "ariel2",
+	"photo3": "ariel3",
+	"productPhotos": {
+		"photoItem1": "trainer2",
+		"photoItem2": "ariel2",
+		"photoItem3": "ariel3"
+	},
+	"group": "trainer",
+	"programsAmount": "20",
+	"trainingsAmount": "156",
+	"trainingnow": "356",
+	"about": "Ariel is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Ariel places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Ariel Bro",
+	"trainings": {
+		"basic gym": true,
+		"functional workout": true,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": true
+	},
+	"trainingDirections": ["Basic Gym", "Functional workout", "Bodybuilding", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program15",
+		"titleFilterCategory": "Ariel Bro Basic Gym",
+		"trainer": "Ariel Bro",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program22",
+		"titleFilterCategory": "Ariel Bro Functional workout",
+		"program": "Functional workout",
+		"trainer": "Ariel Bro",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program65",
+		"titleFilterCategory": "Ariel Bro Tabata",
+		"trainer": "Ariel Bro",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program75",
+		"titleFilterCategory": "Ariel Bro Fat burning training",
+		"trainer": "Ariel Bro",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program105",
+		"titleFilterCategory": "Ariel Bro Bodybuilding",
+		"trainer": "Ariel Bro",
+		"program": "Bodybuilding",
+        "urlFilerCategory": "bodybuilding",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Basic Gym, Functional workout, Bodybuilding, Tabata, Fat burning training"
+}
+

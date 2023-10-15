@@ -1,0 +1,31 @@
+{
+	"id": "222",
+	"title": "Women's Light Green Top",
+	"url": "top3",
+	"productPhotos": {
+		"photoItem1": "top3",
+		"photoItem2": "top4",
+		"photoItem3": "top3",
+		"photoItem5": "top4",
+		"photoItem6": "top3",
+		"photoItem7": "top4"
+	},
+	"descriptionItem": "This Item page for Top 2",
+	"price": 10,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": false,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "222",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

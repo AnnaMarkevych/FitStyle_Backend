@@ -1,0 +1,31 @@
+{
+	"id": "218",
+	"title": "Women's pink leggins",
+	"url": "leggins7",
+	"productPhotos": {
+		"photoItem1": "leggins17",
+	"photoItem2": "leggins18",
+	"photoItem3": "leggins27",
+	"photoItem4": "leggins28",
+	"photoItem5": "leggins29",
+	"photoItem6": "leggins30"
+	},
+	"descriptionItem": "This Item page for Leggins 8",
+	"price": 21,
+	"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+	"descriptionDetails": {
+		"Article": "218",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

@@ -1,0 +1,156 @@
+[
+	{
+        "id": "211",
+		"title": "Women's blue leggins",
+        "url": "leggins1",
+		"urlHover": "leggins2",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "18",
+		"sale": "20%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "212",
+		"title": "Women's blue-gray leggins",
+        "url": "leggins3",
+		"urlHover": "leggins4",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "22",
+		"sale": "19%",
+		"sizes": {
+			"xs": true,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": true
+		},
+		"group": "Leggins"
+    }, 
+	{
+        "id": "213",
+		"title": "Women's red leggins",
+        "url": "leggins5",
+		"urlHover": "leggins6",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "15",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "214",
+		"title": "Women's yellow leggins",
+        "url": "leggins7",
+		"urlHover": "leggins8",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "215",
+		"title": "Women's bordo leggins",
+        "url": "leggins9",
+		"urlHover": "leggins10",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "216",
+		"title": "Women's deep-yellow leggins",
+        "url": "leggins11",
+		"urlHover": "leggins12",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "18",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "217",
+		"title": "Women's gray leggins",
+        "url": "leggins13",
+		"urlHover": "leggins14",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "19",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+	{
+        "id": "218",
+		"title": "Women's pink leggins",
+        "url": "leggins17",
+		"urlHover": "leggins18",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "21",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    },
+{
+        "id": "219",
+		"title": "Women's pink222 leggins",
+        "url": "leggins17",
+		"urlHover": "leggins18",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "21",
+		"sale": "19%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+		"group": "Leggins"
+    }
+	
+]

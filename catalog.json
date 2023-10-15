@@ -1,0 +1,21 @@
+ [
+	{
+        "idCategory": "1",
+		"titleCategory": "Equipment",
+        "urlCategory": "inventar",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+		"idCategory": "2",
+		"titleCategory": "Sportswear",
+        "urlCategory": "sportwear",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "3",
+		"titleCategory": "Sports nutrition",
+        "urlCategory": "sportnutrition",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+
+]

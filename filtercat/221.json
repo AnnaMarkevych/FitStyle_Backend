@@ -1,0 +1,31 @@
+{
+	"id": "211",
+	"title": "Women's Biege Top",
+	"url": "top1",
+	"productPhotos": {
+		"photoItem1": "top1",
+		"photoItem2": "top2",
+		"photoItem3": "top1",
+		"photoItem5": "top2",
+		"photoItem6": "top1",
+		"photoItem7": "top2"
+	},
+	"descriptionItem": "This Item page for top 1",
+	"price": 10,
+	"sizes": {
+		"xs": true,
+		"s": false,
+		"m": false,
+		"l": false,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "221",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

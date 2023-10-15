@@ -1,0 +1,62 @@
+{
+	"id": "trainer7",
+	"title": "Victor Marco",
+	"url": "trainer7",
+	"urlAbout": "about7",
+	"photo1": "trainer7",
+	"photo2": "victor2",
+	"photo3": "victor3",
+	"productPhotos": {
+		"photoItem1": "trainer7",
+		"photoItem2": "victor2",
+		"photoItem3": "victor3"
+	},
+	"group": "trainer",
+	"programsAmount": "12",
+	"trainingsAmount": "156",
+	"trainingnow": "5035",
+	"about": "Victor is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Victor places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Victor Marco",
+	"trainings": {
+		"basic gym": true,
+		"functional workout": true,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": false,
+		"fat burning training": false,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": true
+	},
+	"trainingDirections": ["Bodybuilding", "Functional Workout", "Basic gym"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program104",
+		"titleFilterCategory": "Victor Marco Bodybuilding",
+		"trainer": "Victor Marco",
+		"program": "Bodybuilding",
+        "urlFilerCategory": "bodybuilding",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program24",
+		"titleFilterCategory": "Victor Marco Functional workout",
+		"trainer": "Victor Marco",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program14",
+		"titleFilterCategory": "Victor Marco Basic Gym",
+		"trainer": "Victor Marco",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Basic gym, Functional workout, Bodybuilding"
+	
+}
+

@@ -1,0 +1,54 @@
+{
+	"id": "trainer6",
+	"title": "Jozef Franko",
+	"url": "trainer6",
+	"urlAbout": "about6",
+	"photo1": "trainer6",
+	"photo2": "jozef2",
+	"photo3": "jozef3",
+	"productPhotos": {
+		"photoItem1": "trainer6",
+		"photoItem2": "jozef2",
+		"photoItem3": "jozef3"
+	},
+	"group": "trainer",
+	"programsAmount": "8",
+	"trainingsAmount": "90",
+	"trainingnow": "3090",
+	"about": "Jozef is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Jozef places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Josez Franko",
+	"trainings": {
+		"basic gym": true,
+		"functional workout": false,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": false,
+		"fat burning training": false,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": true
+	},
+	"trainingDirections": ["Bodybuilding", "Basic gym"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program12",
+		"titleFilterCategory": "Jozef Franko Basic Gym",
+		"trainer": "Jozef Franko",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program102",
+		"titleFilterCategory": "Jozef Franko Bodybuilding",
+		"trainer": "Jozef Franko",
+		"program": "Bodybuilding",
+        "urlFilerCategory": "bodybuilding",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Basic gym, Bodybuilding"
+	
+}
+

@@ -1,0 +1,124 @@
+[
+	{	
+			"label": "Avocado",
+			"value": "Avocado",
+			"id": "j1",
+			"portion": "25",
+			"units": "grams",
+			"carbohydrates": "3",
+			"proteins": "1",
+			"fats": "4",
+			"calories": "46"
+		},
+		{	
+			"label": "Olive oil",
+			"value": "Olive oil",
+			"id": "j2",
+			"portion": "5",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "0",
+			"fats": "5",
+			"calories": "39"
+		},
+		{	
+			"label": "Olives",
+			"value": "Olives",
+			"id": "j3",
+			"portion": "30",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "0",
+			"fats": "4",
+			"calories": "50"
+		},
+		{	
+			"label": "Chocolate 99%",
+			"value": "Chocolate 99%",
+			"id": "j4",
+			"portion": "10",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "1,3",
+			"fats": "5",
+			"calories": "53"
+		},
+		{	
+			"label": "Chocolate 85%",
+			"value": "Chocolate 85%",
+			"id": "j5",
+			"portion": "10",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "1",
+			"fats": "5",
+			"calories": "56"
+		},
+		{	
+			"label": "Mayonnaise",
+			"value": "Mayonnaise",
+			"id": "j6",
+			"portion": "10",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "0",
+			"fats": "6",
+			"calories": "50"
+		},
+		{	
+			"label": "Butter",
+			"value": "Butter",
+			"id": "j7",
+			"portion": "7",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "0",
+			"fats": "6",
+			"calories": "52"
+		},
+		{	
+			"label": "Cream 10%",
+			"value": "Cream 10%",
+			"id": "j8",
+			"portion": "50",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "2",
+			"fats": "5",
+			"calories": "60"
+		},
+		{	
+			"label": "Sour cream 15%",
+			"value": "Sour cream 15%",
+			"id": "j9",
+			"portion": "30",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "2",
+			"fats": "5",
+			"calories": "47"
+		},
+		{	
+			"label": "Sour cream 20%",
+			"value": "Sour cream 20%",
+			"id": "j10",
+			"portion": "25",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "2",
+			"fats": "5",
+			"calories": "52"
+		},
+		{	
+			"label": "Sour cream 30%",
+			"value": "Sour cream 30%",
+			"id": "j11",
+			"portion": "17",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "1",
+			"fats": "5",
+			"calories": "50"
+		}
+		
+]

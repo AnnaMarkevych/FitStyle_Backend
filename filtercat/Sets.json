@@ -1,0 +1,180 @@
+[
+	{
+        "id": "231",
+		"title": "Women's Sets1",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "232",
+		"title": "Women's Sets2",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "233",
+		"title": "Women's Sets3",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "234",
+		"title": "Women's Sets4",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "235",
+		"title": "Women's Sets5",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "236",
+		"title": "Women's Sets6",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "237",
+		"title": "Women's Sets7",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "238",
+		"title": "Women's Sets8",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "239",
+		"title": "Women's Sets9",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "2310",
+		"title": "Women's Sets10",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+{
+        "id": "2311",
+		"title": "Women's Sets11",
+        "url": "set1",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    }
+	
+	
+]

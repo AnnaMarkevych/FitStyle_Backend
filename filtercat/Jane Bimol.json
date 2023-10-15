@@ -1,0 +1,78 @@
+{
+	"id": "trainer1",
+	"title": "Jane Bimol",
+	"url": "trainer1",
+	"urlAbout": "about1",
+	"photo1": "trainer1",
+	"photo2": "jane2",
+	"photo3": "jane3",
+	"productPhotos": {
+		"photoItem1": "trainer1",
+		"photoItem2": "jane2",
+		"photoItem3": "jane3"
+	},
+	"group": "trainer",
+	"programsAmount": "33",
+	"trainingsAmount": "640",
+	"trainingnow": "10650",
+	"about": "Jane is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Jane places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Jane Bimol",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": true,
+		"pilates": "Pilates 1",
+		"stratching": true,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": false
+	},
+	"pilates": "Pilates 1",
+	"trainingDirections": ["Pilates", "Functional workout", "Stratching", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program31",
+		"titleFilterCategory": "Jane Bimol Pilates",
+		"trainer": "Jane Bimol",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},	
+		{
+        "idFilterCategory": "program21",
+		"titleFilterCategory": "Jane Bimol Functional workout",
+		"trainer": "Jane Bimol",
+		"program": "Functional workout",
+        "urlFilerCategory": "workout",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+        "idFilterCategory": "program41",
+		"titleFilterCategory": "Jane Bimol Stratching",
+		"trainer": "Jane Bimol",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		},
+		{
+        "idFilterCategory": "program61",
+		"titleFilterCategory": "Jane Bimol Tabata",
+		"trainer": "Jane Bimol",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program71",
+		"titleFilterCategory": "Jane Bimol Fat burning training",
+		"trainer": "Jane Bimol",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Pilates, Functional workout, Stratching, Tabata, Fat burning training"
+}
+

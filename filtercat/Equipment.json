@@ -1,0 +1,51 @@
+[
+	{
+        "idFilterCategory": "11",
+		"titleFilterCategory": "Mats",
+        "urlFilerCategory": "mats",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "12",
+		"titleFilterCategory": "Dumbbells",
+        "urlFilerCategory": "dumbbells",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "13",
+		"titleFilterCategory": "Steppes",
+        "urlFilerCategory": "steppes",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "14",
+		"titleFilterCategory": "Rubber bands",
+        "urlFilerCategory": "bands",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "15",
+		"titleFilterCategory": "Skipping ropes",
+        "urlFilerCategory": "skippingropes",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "16",
+		"titleFilterCategory": "Weights",
+        "urlFilerCategory": "weights",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "17",
+		"titleFilterCategory": "Bottles",
+        "urlFilerCategory": "bottles",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "18",
+		"titleFilterCategory": "Accessories",
+        "urlFilerCategory": "accessories",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

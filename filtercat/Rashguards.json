@@ -1,0 +1,180 @@
+[
+	{
+        "id": "241",
+		"title": "Women's rashguard 1",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "242",
+		"title": "Women's rashguard 2",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "243",
+		"title": "Women's rashguard 3",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "244",
+		"title": "Women's rashguard 4",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "245",
+		"title": "Women's rashguard 5",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "246",
+		"title": "Women's rashguard 6",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "247",
+		"title": "Women's rashguard 7",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "248",
+		"title": "Women's rashguard 8",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "249",
+		"title": "Women's rashguard 9",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+	{
+        "id": "2410",
+		"title": "Women's rashguard 10",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    },
+{
+        "id": "2411",
+		"title": "Women's rashguard 11",
+        "url": "rashguard",
+		"urlHover": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+		"price": "20",
+		"sale": "5%",
+		"sizes": {
+			"xs": false,
+			"s": true,
+			"m": false,
+			"l": false,
+			"xl": false
+		}
+    }
+	
+	
+]

@@ -1,0 +1,78 @@
+{
+	"id": "trainer9",
+	"title": "Svitlana Yoga",
+	"url": "trainer9",
+	"urlAbout": "about9",
+	"photo1": "trainer9",
+	"photo2": "svitlana2",
+	"photo3": "svitlana3",
+	"productPhotos": {
+		"photoItem1": "trainer9",
+		"photoItem2": "svitlana2",
+		"photoItem3": "svitlana3"
+	},
+	"group": "trainer",
+	"programsAmount": "25",
+	"trainingsAmount": "180",
+	"trainingnow": "4050",
+	"about": "Svitlana is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Svitlana places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Svitlana Yoga",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": false,
+		"pilates": true,
+		"stratching": true,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": false
+	},
+	"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program34",
+		"titleFilterCategory": "Svitlana Yoga Pilates",
+		"trainer": "Svitlana Yoga",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program44",
+		"titleFilterCategory": "Svitlana Yoga Stratching",
+		"trainer": "Svitlana Yoga",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program64",
+		"titleFilterCategory": "Svitlana Yoga Tabata",
+		"trainer": "Svitlana Yoga",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program74",
+		"titleFilterCategory": "Svitlana Yoga Fat burning training",
+		"trainer": "Svitlana Yoga",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program51",
+		"titleFilterCategory": "Svitlana Yoga Yoga",
+		"trainer": "Svitlana Yoga",
+		"program": "Yoga",
+        "urlFilerCategory": "yoga",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Pilates, Stratching, Tabata, Fat burning training"
+	
+}
+

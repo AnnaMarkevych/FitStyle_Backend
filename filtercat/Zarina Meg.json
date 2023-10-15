@@ -1,0 +1,54 @@
+{
+	"id": "trainer11",
+	"title": "Zarina Meg",
+	"url": "zarina",
+	"urlAbout": "about11",
+	"photo1": "zarina",
+	"photo2": "zarina2",
+	"photo3": "zarina3",
+	"productPhotos": {
+		"photoItem1": "zarina",
+		"photoItem2": "zarina2",
+		"photoItem3": "zarina3"
+	},
+	"group": "trainer",
+	"programsAmount": "13",
+	"trainingsAmount": "258",
+	"trainingnow": "2890",
+	"about": "Zarina is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Zarina places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Zarina Meg",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": false,
+		"pilates": false,
+		"stratching": false,
+		"yoga": false,
+		"tabata": false,
+		"fat burning training": false,
+		"zumba": true,
+		"pregnant yoga": true,
+		"bodybuilding": false
+	},
+	"trainingDirections": ["Zumba", "Pregnant yoga"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program91",
+		"titleFilterCategory": " Zarina Meg Pregnant Yoga",
+		"trainer": "Zarina Meg",
+		"program": "Pregnant yoga",
+        "urlFilerCategory": "pregnantyoga",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program81",
+		"titleFilterCategory": "Zarina Meg Zumba",
+		"trainer": "Zarina Meg",
+		"program": "Zumba",
+        "urlFilerCategory": "zumba",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Zumba, Pregnant yoga"
+	
+}
+

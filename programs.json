@@ -1,0 +1,85 @@
+[
+	{
+        "idCategory": "program1",
+		"titleCategory": "Basic gym",
+        "urlCategory": "gym",
+		"trainer": "Ariel Bro, Ioann Mercury, Jozef Franko, Showkun Radion, Victor Marco",
+		"trainers": ["Ariel Bro Basic gym", "Ioann Mercury Basic gym", "Jozef Franko Basic gym", "Showkun Radion Basic gym", "Victor Marco Basic gym"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+		"idCategory": "program2",
+		"titleCategory": "Functional workout",
+        "urlCategory": "workout",
+		"trainer": "Jane Bimol, Ariel Bro, Victor Marco, Showkun Radion",
+		"trainers": ["Jane Bimol Functional workout", "Ariel Bro Functional workout", "Victor Marco Functional workout", "Showkun Radion Functional workout"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program3",
+		"titleCategory": "Pilates",
+        "urlCategory": "pilates",
+		"trainer": "Jane Bimol, Sveta Raketa, Rebeca Brans, Svitlana Yoga",
+		"trainers": ["Jane Bimol Pilates", "Sveta Raketa Pilates", "Rebeca Brans Pilates", "Svitlana Yoga Pilates"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program4",
+		"titleCategory": "Stratching",
+        "urlCategory": "stratching",
+		"trainer": "Jane Bimol, Sveta Raketa, Rebeca Brans, Svitlana Yoga",
+		"trainers": ["Jane Bimol Stratching", "Sveta Raketa Stratching", "Rebeca Brans Stratching", "Svitlana Yoga Stratching"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+		
+	},
+	{
+		"idCategory": "program5",
+		"titleCategory": "Yoga",
+        "urlCategory": "yoga",
+		"trainer": "Svitlana Yoga, Anna Markevych",
+		"trainers": ["Svitlana Yoga Yoga", "Anna Markevych Yoga"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program6",
+		"titleCategory": "Tabata",
+        "urlCategory": "tabata",
+		"trainer": "Jane Bimol, Sveta Raketa, Rebeca Brans, Svitlana Yoga, Ariel Bro, Showkun Radion, Anna Markevych",
+		"trainers": ["Jane Bimol Tabata", "Sveta Raketa Tabata", "Rebeca Brans Tabata", "Svitlana Yoga Tabata", "Ariel Bro Tabata", "Showkun Radion Tabata", "Anna Markevych Tabata"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	
+	},
+	{
+		"idCategory": "program7",
+		"titleCategory": "Fat burning training",
+        "urlCategory": "burning",
+		"trainer": "Jane Bimol, Sveta Raketa, Rebeca Brans, Svitlana Yoga, Ariel Bro, Showkun Radion",
+		"trainers": ["Jane Bimol Fat burning training", "Sveta Raketa Fat burning training", "Rebeca Brans Fat burning training", "Svitlana Yoga Fat burning training", "Ariel Bro Fat burning training", "Showkun Radion Fat burning training"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program8",
+		"titleCategory": "Zumba",
+        "urlCategory": "zumba",
+		"trainer": "Anna Markevych, Zarina Meg",
+		"trainers": ["Anna Markevych Zumba", "Zarina Meg Zumba"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program9",
+		"titleCategory": "Pregnant Yoga",
+        "urlCategory": "pregnantyoga",
+		"trainer": "Zarina Meg",
+		"trainers": ["Zarina Meg Pregnant Yoga"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "program10",
+		"titleCategory": "Bodybuilding",
+        "urlCategory": "bodybuilding",
+		"trainer": "Ariel Bro, Ioann Mercury, Jozef Franko, Showkun Radion, Victor Marco",
+		"trainers": ["Ariel Bro Bodybuilding", "Ioann Mercury Bodybuilding", "Jozef Franko Bodybuilding", "Showkun Radion Bodybuilding", "Victor Marco Bodybuilding"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+	
+]

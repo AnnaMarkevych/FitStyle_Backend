@@ -1,0 +1,31 @@
+{
+	"id": "217",
+	"title": "Women's gray leggins",
+	"url": "leggins7",
+	"productPhotos": {
+		"photoItem1": "leggins13",
+	"photoItem2": "leggins14",
+	"photoItem3": "leggins13",
+	"photoItem4": "leggins14",
+	"photoItem5": "leggins13",
+	"photoItem6": "leggins14"
+	},
+	"descriptionItem": "This Item page for Leggins 7",
+	"price": 19,
+	"sizes": {
+			"xs": false,
+			"s": true,
+			"m": true,
+			"l": true,
+			"xl": false
+		},
+	"descriptionDetails": {
+		"Article": "217",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

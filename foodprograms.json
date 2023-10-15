@@ -1,0 +1,26 @@
+[
+	{
+        "idCategory": "diet1",
+		"titleCategory": "Сarbohydrate diet",
+        "urlCategory": "diet1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+		"idCategory": "diet2",
+		"titleCategory": "Protein diet",
+        "urlCategory": "diet1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "diet3",
+		"titleCategory": "KETO diet",
+        "urlCategory": "diet1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	},
+	{
+		"idCategory": "diet4",
+		"titleCategory": "Vegetarian diet",
+        "urlCategory": "diet1",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+	}
+]

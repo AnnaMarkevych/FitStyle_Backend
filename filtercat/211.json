@@ -1,0 +1,32 @@
+{
+	"id": "211",
+	"title": "Women's blue leggins",
+	"url": "leggins1",
+	"productPhotos": {
+		"photoItem1": "leggins1",
+		"photoItem2": "leggins2",
+		"photoItem3": "leggins33",
+		"photoItem5": "leggins34",
+		"photoItem6": "leggins35",
+		"photoItem7": "leggins36"
+	},
+	"group": "Leggins",
+	"descriptionItem": "This Item page for Leggins 1",
+	"price": 18,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": true,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "211",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

@@ -1,0 +1,19 @@
+[
+	{
+        "idFilterCategory": "program51",
+		"titleFilterCategory": "Svitlana Yoga Yoga",
+		"trainer": "Svitlana Yoga",
+		"program": "Yoga",
+        "urlFilerCategory": "yoga",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program52",
+		"titleFilterCategory": "Anna Markevych Yoga",
+		"trainer": "Anna Markevych",
+		"program": "Yoga",
+        "urlFilerCategory": "yoga",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

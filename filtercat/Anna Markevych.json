@@ -1,0 +1,62 @@
+{
+	"id": "trainer8",
+	"title": "Anna Markevych",
+	"url": "trainer8",
+	"urlAbout": "about8",
+	"photo1": "trainer8",
+	"photo2": "anna2",
+	"photo3": "anna3",
+	"productPhotos": {
+		"photoItem1": "trainer8",
+		"photoItem2": "anna2",
+		"photoItem3": "anna3"
+	},
+	"group": "trainer",
+	"programsAmount": "15",
+	"trainingsAmount": "560",
+	"trainingnow": "6708",
+	"about": "Anna is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Anna places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Anna Markevych",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": false,
+		"pilates": false,
+		"stratching": false,
+		"yoga": true,
+		"tabata": true,
+		"fat burning training": false,
+		"zumba": true,
+		"pregnant yoga": false,
+		"bodybuilding": false
+	},
+	"trainingDirections": ["Zumba", "Yoga", "Tabata"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program82",
+		"titleFilterCategory": "Anna Markevych Zumba",
+		"trainer": "Anna Markevych",
+		"program": "Zumba",
+        "urlFilerCategory": "zumba",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program67",
+		"titleFilterCategory": "Anna Markevych Tabata",
+		"trainer": "Anna Markevych",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program52",
+		"titleFilterCategory": "Anna Markevych Yoga",
+		"trainer": "Anna Markevych",
+		"program": "Yoga",
+        "urlFilerCategory": "yoga",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Zumba, Tabata, Yoga"
+	
+}
+

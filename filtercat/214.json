@@ -1,0 +1,31 @@
+{
+	"id": "214",
+	"title": "Women's yellow leggins",
+	"url": "leggins7",
+	"productPhotos": {
+		"photoItem1": "leggins8",
+	"photoItem2": "leggins7",
+	"photoItem3": "leggins8",
+	"photoItem4": "leggins7",
+	"photoItem5": "leggins8",
+	"photoItem6": "leggins7"
+	},
+	"descriptionItem": "This Item page for Leggins 4",
+	"price": 15,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": true,
+		"l": true,
+		"xl": false
+		},
+	"descriptionDetails": {
+		"Article": "214",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

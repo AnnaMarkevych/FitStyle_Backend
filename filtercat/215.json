@@ -1,0 +1,31 @@
+{
+	"id": "215",
+	"title": "Women's bordo leggins",
+	"url": "leggins7",
+	"productPhotos": {
+		"photoItem1": "leggins9",
+	"photoItem2": "leggins10",
+	"photoItem3": "leggins9",
+	"photoItem4": "leggins10",
+	"photoItem5": "leggins9",
+	"photoItem6": "leggins10"
+	},
+	"descriptionItem": "This Item page for Leggins 5",
+	"price": 15,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": true,
+		"l": true,
+		"xl": false
+		},
+	"descriptionDetails": {
+		"Article": "215",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

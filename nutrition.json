@@ -1,0 +1,38 @@
+ [
+	{
+        "idCategory": "1",
+		"titleCategory": "Сalorie Calculator",
+        "urlCategory": "nutrition",
+        "description": "Lorem ipsum Сaloriecalculator"
+    },
+	{
+		"idCategory": "2",
+		"titleCategory": "Сalorie Table",
+        "urlCategory": "sportwear",
+        "description": "Lorem ipsum Сalorietable"
+	},
+	{
+		"idCategory": "3",
+		"titleCategory": "Food Programs",
+        "urlCategory": "inventar",
+        "description": "Lorem ipsum dolor Foodprograms"
+	},
+{
+		"idCategory": "4",
+		"titleCategory": "Recipes",
+        "urlCategory": "inventar",
+        "description": "Lorem ipsum dolor Recipes"
+	},
+{
+		"idCategory": "5",
+		"titleCategory": "Recipe Analyzer",
+        "urlCategory": "inventar",
+        "description": "Lorem ipsum dolor Recipe Analyzer"
+	},
+{
+		"idCategory": "6",
+		"titleCategory": "Body Analyzer",
+        "urlCategory": "inventar",
+        "description": "Lorem ipsum dolor sit amet Body Analizer"
+	}
+]

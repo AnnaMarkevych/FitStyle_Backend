@@ -1,0 +1,101 @@
+[
+		{	
+			"label": "Pumpkin seeds",
+			"value": "Pumpkin seeds",
+			"id": "o1",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "3",
+			"proteins": "4",
+			"fats": "8",
+			"calories": "93"
+		},
+		{	
+			"label": "Walnut",
+			"value": "Walnut",
+			"id": "o2",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "2",
+			"fats": "9",
+			"calories": "92"
+		},
+		{	
+			"label": "Peanut",
+			"value": "Peanut",
+			"id": "o3",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "4",
+			"fats": "7",
+			"calories": "81"
+		},
+		{	
+			"label": "Pistachios",
+			"value": "Pistachios",
+			"id": "o4",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "4",
+			"proteins": "3",
+			"fats": "6",
+			"calories": "79"
+		},
+		{	
+			"label": "Sunflower seeds",
+			"value": "Sunflower seeds",
+			"id": "o5",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "3",
+			"fats": "8",
+			"calories": "86"
+		},
+		{	
+			"label": "Almond",
+			"value": "Almond",
+			"id": "o6",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "3",
+			"proteins": "3",
+			"fats": "7",
+			"calories": "82"
+		},
+		{	
+			"label": "Cashew",
+			"value": "Cashew",
+			"id": "o7",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "5",
+			"proteins": "2",
+			"fats": "8",
+			"calories": "96"
+		},
+		{	
+			"label": "Flax seed",
+			"value": "Flax seed",
+			"id": "o8",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "4",
+			"proteins": "2",
+			"fats": "6",
+			"calories": "80"
+		},
+		{	
+			"label": "Sesame",
+			"value": "Sesame",
+			"id": "o9",
+			"portion": "15",
+			"units": "grams",
+			"carbohydrates": "3",
+			"proteins": "2",
+			"fats": "7",
+			"calories": "81"
+		}
+]

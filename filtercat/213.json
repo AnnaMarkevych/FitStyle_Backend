@@ -1,0 +1,31 @@
+{
+	"id": "213",
+	"title": "Women's red leggins",
+	"url": "leggins3",
+	"productPhotos": {
+		"photoItem1": "leggins5",
+	"photoItem2": "leggins6",
+	"photoItem3": "leggins15",
+	"photoItem4": "leggins16",
+	"photoItem5": "leggins20",
+	"photoItem6": "leggins21",
+	"photoItem7": "leggins26"
+	},
+	"descriptionItem": "This Item page for Leggins 3",
+	"price": 15,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": true,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "213",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}

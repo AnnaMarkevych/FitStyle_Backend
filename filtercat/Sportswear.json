@@ -1,0 +1,39 @@
+[
+	{
+        "idFilterCategory": "21",
+		"titleFilterCategory": "Leggins",
+        "urlFilerCategory": "leggins",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "22",
+		"titleFilterCategory": "Tops",
+        "urlFilerCategory": "tops",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "23",
+		"titleFilterCategory": "Sets",
+        "urlFilerCategory": "sets",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "24",
+		"titleFilterCategory": "Rashguards",
+        "urlFilerCategory": "rashguard",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "25",
+		"titleFilterCategory": "T-shirts",
+        "urlFilerCategory": "tshirts",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "26",
+		"titleFilterCategory": "Shorts",
+        "urlFilerCategory": "bicycles",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

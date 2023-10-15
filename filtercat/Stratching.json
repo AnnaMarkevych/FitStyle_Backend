@@ -1,0 +1,35 @@
+[
+	{
+        "idFilterCategory": "program41",
+		"titleFilterCategory": "Jane Bimol Stratching",
+		"trainer": "Jane Bimol",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program42",
+		"titleFilterCategory": "Sveta Raketa Stratching",
+		"trainer": "Sveta Raketa",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program43",
+		"titleFilterCategory": "Rebeca Brans Stratching",
+		"trainer": "Rebeca Brans",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program44",
+		"titleFilterCategory": "Svitlana Yoga Stratching",
+		"trainer": "Svitlana Yoga",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+
+]

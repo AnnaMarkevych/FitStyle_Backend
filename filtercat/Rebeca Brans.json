@@ -1,0 +1,70 @@
+{
+	"id": "trainer4",
+	"title": "Rebeca Brans",
+	"url": "trainer15",
+	"urlAbout": "about4",
+	"photo1": "trainer15",
+	"photo2": "rebeca2",
+	"photo3": "rebeca3",
+	"productPhotos": {
+		"photoItem1": "trainer15",
+		"photoItem2": "rebeca2",
+		"photoItem3": "rebeca3"
+	},
+	"group": "trainer",
+	"programsAmount": "10",
+	"trainingsAmount": "70",
+	"trainingnow": "355",
+	"about": "Rebeca is a professional coach. Specialist in adaptive physical culture, physical therapy and rehabilitation. Personal trainer and instructor of group programs with more than 10 years of experience. Specialization: figure and posture correction, weight loss, rehabilitation after injuries, pilates. Rebeca places special emphasis on the development of a strong back, flexibility and restoration of muscle tone. Inspires, motivates, tunes into the right wave. It helps to easily lose excess weight and start living a new life in harmony with oneself. Life attitude: You can't stop, you have to spin the earth. After all, you can do everything! ",
+	"descriptionItem": "This Item page for Rebeca Brans",
+	"trainings": {
+		"basic gym": false,
+		"functional workout": false,
+		"pilates": true,
+		"stratching": true,
+		"yoga": false,
+		"tabata": true,
+		"fat burning training": true,
+		"zumba": false,
+		"pregnant yoga": false,
+		"bodybuilding": false
+	},
+	"trainingDirections": ["Pilates", "Stratching", "Tabata", "Fat burning training"],
+	"allProgramsTraining":[
+		{
+        "idFilterCategory": "program33",
+		"titleFilterCategory": "Rebeca Brans Pilates",
+		"trainer": "Rebeca Brans",
+		"program": "Pilates",
+        "urlFilerCategory": "pilates",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program43",
+		"titleFilterCategory": "Rebeca Brans Stratching",
+		"trainer": "Rebeca Brans",
+		"program": "Stratching",
+        "urlFilerCategory": "stratching",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program63",
+		"titleFilterCategory": "Rebeca Brans Tabata",
+		"trainer": "Rebeca Brans",
+		"program": "Tabata",
+        "urlFilerCategory": "tabata",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+		{
+        "idFilterCategory": "program73",
+		"titleFilterCategory": "Rebeca Brans Fat burning training",
+		"trainer": "Rebeca Brans",
+		"program": "Fat burning training",
+        "urlFilerCategory": "burning",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	],
+	"directions": "Pilates, Stratching, Tabata, Fat burning training"
+	
+}
+

@@ -1,0 +1,212 @@
+[
+		{	
+			"label": "Kefir 1%",
+			"value": "Kefir 1%",
+			"id": "m1",
+			"portion": "250",
+			"units": "grams",
+			"carbohydrates": "10",
+			"proteins": "7",
+			"fats": "3",
+			"calories": "100"
+		},
+		{	
+			"label": "Kefir 2,5%",
+			"value": "Kefir 2,5%",
+			"id": "m2",
+			"portion": "150",
+			"units": "grams",
+			"carbohydrates": "6",
+			"proteins": "4",
+			"fats": "4",
+			"calories": "75"
+		},
+		{	
+			"label": "Kefir 0%",
+			"value": "Kefir 0%",
+			"id": "m3",
+			"portion": "300",
+			"units": "grams",
+			"carbohydrates": "11",
+			"proteins": "9",
+			"fats": "0",
+			"calories": "90"
+		},
+		{	
+			"label": "Milk 2,5%",
+			"value": "Milk 2,5%",
+			"id": "m4",
+			"portion": "200",
+			"units": "grams",
+			"carbohydrates": "10",
+			"proteins": "6",
+			"fats": "5",
+			"calories": "105"
+		},
+		{	
+			"label": "Milk 1,5%",
+			"value": "Milk 1,5%",
+			"id": "m5",
+			"portion": "250",
+			"units": "grams",
+			"carbohydrates": "12",
+			"proteins": "7",
+			"fats": "3",
+			"calories": "110"
+		},
+		{	
+			"label": "Milk 3,5%",
+			"value": "Milk 3,5%",
+			"id": "m6",
+			"portion": "170",
+			"units": "grams",
+			"carbohydrates": "8",
+			"proteins": "5",
+			"fats": "5",
+			"calories": "100"
+		},
+		{	
+			"label": "Edam cheese",
+			"value": "Edam cheese",
+			"id": "m7",
+			"portion": "30",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "7",
+			"fats": "8",
+			"calories": "99"
+		},
+		{	
+			"label": "Swiss cheese",
+			"value": "Swiss cheese",
+			"id": "m8",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "8",
+			"fats": "8",
+			"calories": "110"
+		},
+		{	
+			"label": "Dutch cheese",
+			"value": "Dutch cheese",
+			"id": "m9",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "7",
+			"fats": "8",
+			"calories": "99"
+		},
+		{	
+			"label": "Russian cheese",
+			"value": "Russian cheese",
+			"id": "m10",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "7",
+			"fats": "8",
+			"calories": "102"
+		},
+		{	
+			"label": "Gouda cheese",
+			"value": "Gouda cheese",
+			"id": "m11",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "7",
+			"fats": "8",
+			"calories": "100"
+		},
+		{	
+			"label": "Feta",
+			"value": "Feta",
+			"id": "m12",
+			"portion": "36",
+			"units": "grams",
+			"carbohydrates": "2",
+			"proteins": "5",
+			"fats": "8",
+			"calories": "99"
+		},
+		{	
+			"label": "Brie",
+			"value": "Brie",
+			"id": "m13",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "6",
+			"fats": "8",
+			"calories": "95"
+		},
+		{	
+			"label": "Mozzarella",
+			"value": "Mozzarella",
+			"id": "m14",
+			"portion": "28",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "7",
+			"fats": "6",
+			"calories": "80"
+		},
+		{	
+			"label": "Smoked sausage cheese",
+			"value": "Smoked sausage cheese",
+			"id": "m15",
+			"portion": "37",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "9",
+			"fats": "7",
+			"calories": "100"
+		},
+		{	
+			"label": "Melted cheese",
+			"value": "Melted cheese",
+			"id": "m16",
+			"portion": "44",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "11",
+			"fats": "6",
+			"calories": "99"
+		},
+		{	
+			"label": "Cheese 20%",
+			"value": "Cheese 20%",
+			"id": "m17",
+			"portion": "30",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "5",
+			"fats": "6",
+			"calories": "78"
+		},
+		{	
+			"label": "Suluguni",
+			"value": "Suluguni",
+			"id": "m18",
+			"portion": "38",
+			"units": "grams",
+			"carbohydrates": "0",
+			"proteins": "8",
+			"fats": "8",
+			"calories": "108"
+		},
+		{	
+			"label": "Adygea cheese",
+			"value": "Adygea cheese",
+			"id": "m19",
+			"portion": "40",
+			"units": "grams",
+			"carbohydrates": "1",
+			"proteins": "8",
+			"fats": "8",
+			"calories": "105"
+		}
+		
+]

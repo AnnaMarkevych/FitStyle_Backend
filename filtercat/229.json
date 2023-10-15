@@ -1,0 +1,31 @@
+{
+	"id": "229",
+	"title": "Women's White Top",
+	"url": "top17",
+	"productPhotos": {
+		"photoItem1": "top17",
+		"photoItem2": "top18",
+		"photoItem3": "top17",
+		"photoItem5": "top18",
+		"photoItem6": "top17",
+		"photoItem7": "top18"
+	},
+	"descriptionItem": "This Item page for Top 9",
+	"price": 10,
+	"sizes": {
+		"xs": false,
+		"s": true,
+		"m": false,
+		"l": true,
+		"xl": false
+	},
+	"descriptionDetails": {
+		"Article": "229",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+}
+

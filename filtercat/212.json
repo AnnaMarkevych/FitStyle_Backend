@@ -1,0 +1,31 @@
+{
+	"id": "212",
+	"title": "Women's blue-gray leggins",
+	"url": "leggins3",
+	"productPhotos": {
+		"photoItem1": "leggins3",
+	"photoItem2": "leggins4",
+	"photoItem3": "leggins22",
+	"photoItem4": "leggins23",
+	"photoItem5": "leggins24",
+	"photoItem6": "leggins25"
+	},
+	"descriptionItem": "This Item page for Leggins 2",
+	"price": 22,
+	"sizes": {
+		"xs": true,
+		"s": true,
+		"m": true,
+		"l": true,
+		"xl": true
+	},
+	"descriptionDetails": {
+		"Article": "212",
+		"Sex": "femail",
+		"Producing country": "Ukraine",
+		"Storage": "85% cotton, 15% elastane",
+		"Dimensional grid": "International",
+		"Another": "Stretch material, stretches, perfect fit"
+	}
+	
+}

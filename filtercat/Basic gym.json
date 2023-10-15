@@ -1,0 +1,44 @@
+[
+	{
+        "idFilterCategory": "program11",
+		"titleFilterCategory": "Ioann Mercury Basic Gym",
+		"trainer": "Ioann Mercury",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program12",
+		"titleFilterCategory": "Jozef Franko Basic Gym",
+		"trainer": "Jozef Franko",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program13",
+		"titleFilterCategory": "Showkun Radion Basic Gym",
+		"trainer": "Showkun Radion",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program14",
+		"titleFilterCategory": "Victor Marco Basic Gym",
+		"trainer": "Victor Marco",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    },
+	{
+        "idFilterCategory": "program15",
+		"titleFilterCategory": "Ariel Bro Basic Gym",
+		"trainer": "Ariel Bro",
+		"program": "Basic gym",
+        "urlFilerCategory": "gym",
+        "descriptionFilter": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+	
+
+]
